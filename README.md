@@ -24,12 +24,12 @@
 
 > 방문자가 남길 수 있는 댓글 입력창을 최하단에 구성한다.
 
-- [ ] 댓글 입력창 구성요소를 감싸는 태그는 <form> 태그를 사용한다.
+- [x] 댓글 입력창 구성요소를 감싸는 태그는 <form> 태그를 사용한다.
   - 힌트: <input type="text">
-- [ ] 등록 버튼은 <button type="button"></button>으로 구성한다.
-- [ ] 취소 버튼은 <button type="reset"></button>으로 구성한다.
+- [x] 등록 버튼은 <button type="button"></button>으로 구성한다.
+- [x] 취소 버튼은 <button type="reset"></button>으로 구성한다.
 
-- [ ] 그 밖에 자세한 요구사항은 Figma 형식을 참고하여 구현한다.
+- [x] 그 밖에 자세한 요구사항은 Figma 형식을 참고하여 구현한다.
   - 요구사항에 나와 있지 않은 내용은 스스로 판단하여 구현한다.
 
 **Level2**
