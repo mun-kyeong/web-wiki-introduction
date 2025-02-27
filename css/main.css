@@ -1,3 +1,24 @@
 @import "./reset.css";
 @import "./common.css";
 @import "./wiki-layout.css";
+
+.my-photo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+}
+
+.my-photo > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+}
+
+.my-photo img {
+  width: 30%;
+}
