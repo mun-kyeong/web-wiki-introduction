@@ -22,3 +22,8 @@
 .my-photo img {
   width: 30%;
 }
+
+.favoriteArt > div {
+  display: flex;
+  gap: 24px;
+}
